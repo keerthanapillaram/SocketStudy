@@ -1,5 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-
+## Name : Keerthana P
+## Register Number : 212223240069
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
